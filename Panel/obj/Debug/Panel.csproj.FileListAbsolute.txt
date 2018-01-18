@@ -1,0 +1,7 @@
+C:\Users\kadoa\OneDrive\Masaüstü\Panel\Panel\bin\Debug\Panel.exe.config
+C:\Users\kadoa\OneDrive\Masaüstü\Panel\Panel\bin\Debug\Panel.exe
+C:\Users\kadoa\OneDrive\Masaüstü\Panel\Panel\bin\Debug\Panel.pdb
+C:\Users\kadoa\OneDrive\Masaüstü\Panel\Panel\obj\Debug\Panel.csprojResolveAssemblyReference.cache
+C:\Users\kadoa\OneDrive\Masaüstü\Panel\Panel\obj\Debug\Panel.csproj.CoreCompileInputs.cache
+C:\Users\kadoa\OneDrive\Masaüstü\Panel\Panel\obj\Debug\Panel.exe
+C:\Users\kadoa\OneDrive\Masaüstü\Panel\Panel\obj\Debug\Panel.pdb
